@@ -1,6 +1,6 @@
 ![header](https://user-images.githubusercontent.com/bednegoh/cover-image.png)
 
-## 👋 Hi, I’m Bednegoh
+## 👋 Hi, I’m Earnify
 
 ### About Me
 I'm passionate about using technology to make a positive impact on people's lives. I love exploring the potential of AI and web development to create innovative solutions that are as functional as they are beautiful.
